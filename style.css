@@ -1,0 +1,40 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+}
+
+
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+a {
+    color: #08233e;
+}
+
+a:hover {
+    text-decoration: none;
+}
