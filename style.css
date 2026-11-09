@@ -22,6 +22,12 @@ h2 {
     padding-bottom: 5px;
 }
 
+.image-centree {
+    display: block;
+    margin: 20px auto;
+    width: 400px;
+    max-width: 100%;
+}
 
 img {
     max-width: 90%;
